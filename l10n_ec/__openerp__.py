@@ -30,7 +30,7 @@
                 'base_vat',
                 'base_iban',
                 'account_chart',
-                'account_coda',
+               # 'account_coda', Obsoleto
                 ],
     'init_xml': [],
     'update_xml': [
